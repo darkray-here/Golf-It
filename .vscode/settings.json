@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Golf It!.slnx"
+    "dotnet.defaultSolution": "Golf It!.slnx",
+    "antigravity.enableInlineDiff": true
 }
